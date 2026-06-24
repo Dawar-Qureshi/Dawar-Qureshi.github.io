@@ -10,6 +10,11 @@ I’m open to collaborate on research projects in:
 - Flood risk modelling  
 - Stochastic Computational Hydrology and Hydraulics.
 
+## Research Projects and Independent Learning
+* **[Rainfall-Extremes-PyMC-HMC-Method](https://github.com/Dawar-Qureshi/Bayesian-Rainfall-Extremes-PyMC-HMC-Method)**
+* **[Bayesian-Parametric-Inference-Metropolis-Hastings-Method-Water-Infrastructure](https://github.com/Dawar-Qureshi/Bayesian-Parametric-Inference-Metropolis-Hastings-Method-Water-Infrastructure)**
+* **[Multi-Variate-Exponentially-moving-Control-Chart-For-Structural-Health-Monitoring-Of-Bridges](https://github.com/Dawar-Qureshi/Multi-Variate-Exponentially-moving-Control-Chart-For-Structural-Health-Monitoring-Of-Bridges)**
+  
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
