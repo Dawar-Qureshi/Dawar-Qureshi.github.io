@@ -3,5 +3,5 @@
 
 ![](Astanmarg1.HEIC)
 ![](Astanmarg3.HEIC)
-![](Astanmarg2.HEIC)
+![](Astanmarg_5.HEIC)
 ![](Astanmarg4.jpeg)
