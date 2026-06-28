@@ -19,5 +19,9 @@ I’m open to collaborate on research projects in:
 * **Availability:** I am currently open to new PhD and research opportunities within the water sector.
 * **Publication:** Our paper, *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US*, is currently under peer review at *Scientific Reports*.
 
+
+### Travel and Explorations
+**[June 2026: Astanmarg, Kashmir &rarr;](photography.md)**
+
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
