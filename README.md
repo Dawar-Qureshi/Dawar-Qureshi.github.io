@@ -21,7 +21,7 @@ I’m open to collaborate on research projects in:
 
 
 ### The Journey Log
-**[2026_in_pictures: &rarr;](photography.md)**
+**[2026_in_pictures](photography.md)**
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
