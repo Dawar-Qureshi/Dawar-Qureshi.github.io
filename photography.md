@@ -5,3 +5,8 @@
 ![](Astanmarg3.HEIC)
 ![](Astanmarg_5.HEIC)
 ![](Astanmarg4.jpeg)
+
+## July 2026: 5:15 AM: Outrunning the Heat for 80 Kilometres
+![](Wayil_1.HEIC)
+![](Wayil_2.HEIC)
+![](Wayil_3.HEIC)
