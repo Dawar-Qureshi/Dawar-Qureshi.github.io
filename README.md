@@ -16,7 +16,7 @@ I’m open to collaborate on research projects in:
 * **[Multi-Variate-Exponentially-moving-Control-Chart-For-Structural-Health-Monitoring-Of-Bridges](https://github.com/Dawar-Qureshi/Multi-Variate-Exponentially-moving-Control-Chart-For-Structural-Health-Monitoring-Of-Bridges)**
 
 ## Latest Updates
-* **Availability:** I am currently open to new PhD and research opportunities within the water sector.
+* **Availability:** I am currently open to PhD and engineering positions within the water sector.
 * **Publication:** Our paper, *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US*, is currently under peer review at *Scientific Reports*.
 
 
