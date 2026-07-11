@@ -23,5 +23,16 @@ I’m open to collaborate on research projects in:
 ### The Journey Log
 **[2026_in_pictures](photography.md)**
 
+<h3>Get in Touch</h3>
+<form action="https://formspree.io/f/mzdlnljq" method="POST">
+  <label>Your Email:</label>
+  <input type="email" name="email" required style="display: block; margin-bottom: 10px; width: 100%; max-width: 400px;">
+  
+  <label>Message:</label>
+  <textarea name="message" required style="display: block; margin-bottom: 10px; width: 100%; max-width: 400px; height: 100px;"></textarea>
+  
+  <button type="submit">Send Message</button>
+</form>
+
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
