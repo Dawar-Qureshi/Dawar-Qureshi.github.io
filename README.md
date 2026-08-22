@@ -34,5 +34,4 @@ I’m open to collaborate on research projects in:
   <button type="submit">Send Message</button>
 </form>
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/dawar-qureshi-7284b089/)
 
