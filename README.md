@@ -17,7 +17,7 @@ I’m open to collaborate on research projects in:
 
 ## Latest Updates
 * **Availability:** I am currently open to research positions within the water sector.
-* **Publication:** Our paper, *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US*, is currently under preparation after peer review at * Nature Scientific Reports*.
+* **Publication:** Our paper, *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US*, is currently under preparation after peer review at *Nature Scientific Reports*.
 
 
 ### The Journey Log
