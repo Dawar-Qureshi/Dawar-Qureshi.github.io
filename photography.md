@@ -12,6 +12,6 @@
 ![](Wayil_2.HEIC)
 ![](Wayil_3.HEIC)
 
-## January 2018: Gulmarg Skiing Base level ~ 2700m ASL
+## January 2018: Gulmarg, Kashmir Himalayas, India, Skiing Base level ~ 2700m ASL
 ![](Gulmarg2.jpg)
 ![](Gulmarg3.jpg)
