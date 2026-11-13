@@ -1,7 +1,7 @@
 
 
-I am an engineer and researcher in water engineering. I have been working on a project addressing overfitting challenges in water infrastructure, particularly, drainage systems. 
-My research interests include uncertainty quantification in water infrastructure design,and pattern recognition in high dimensional environmental data. I am also interested in understanding how inherently non-linear hydrometeorological processes affect model calibration and optimisation. 
+I am an engineer and researcher in water engineering. I have been working on a project addressing overfitting challenges in critical water infrastructure. 
+My research interests include uncertainty quantification in water infrastructure design,and pattern recognition in high dimensional environmental data. I am also interested in understanding how inherently non-linear hydrometeorological processes affect model calibration and optimisation, and work on methodological improvements in water engineering with systems thinking approach. 
 Outside of work, I spend much of my time exploring the outdoors. I’m especially passionate about mountain biking and enjoy climbing the roads of my hometown in Kashmir Himalayas, whether on paved mountain routes or rougher terrain. I also enjoy taking long walks or riding along rivers, lakes, and canals.
 ## Collaboration
 
@@ -16,7 +16,7 @@ I’m open to collaborate on research projects in:
 * **[Multi-Variate-Exponentially-moving-Control-Chart-For-Structural-Health-Monitoring-Of-Bridges](https://github.com/Dawar-Qureshi/Multi-Variate-Exponentially-moving-Control-Chart-For-Structural-Health-Monitoring-Of-Bridges)**
 
 ## Latest Updates
-* **Availability:** I am currently open to research positions in drainage engineering, urban hydrology, and hydrologic and hydraulic modelling in general. 
+* **Availability:** I am currently open to research positions in water engineering, urban hydrology, and hydrologic and hydraulic modelling in general. 
 * **Publication:** Our paper, *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US*, is currently under preparation after peer review at *Nature Scientific Reports*.
 
 
