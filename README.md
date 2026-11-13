@@ -1,7 +1,7 @@
 
 
 I am an engineer and researcher in water engineering. I have been working on a project addressing overfitting challenges in critical water infrastructure. 
-My research interests include uncertainty quantification in water infrastructure design,and pattern recognition in high dimensional environmental data. I am also interested in understanding how inherently non-linear hydrometeorological processes affect model calibration and optimisation, and work on methodological improvements in water engineering with systems thinking approach. 
+My research interests include uncertainty quantification in water infrastructure design,and pattern recognition in high dimensional environmental data. I am also interested in understanding how inherently non-linear hydrometeorological processes affect model calibration and optimisation, and also work on methodological improvements in water engineering with systems thinking approach. 
 Outside of work, I spend much of my time exploring the outdoors. I’m especially passionate about mountain biking and enjoy climbing the roads of my hometown in Kashmir Himalayas, whether on paved mountain routes or rougher terrain. I also enjoy taking long walks or riding along rivers, lakes, and canals.
 ## Collaboration
 
